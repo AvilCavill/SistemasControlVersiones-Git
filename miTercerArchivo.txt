@@ -1,0 +1,4 @@
+los comandos mas usados:
+
+-git add
+-git commit --amend -m "Comentario"
